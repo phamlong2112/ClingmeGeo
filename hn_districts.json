@@ -681,11 +681,6 @@
         ]
       },
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
         "name": "Đống Đa",
         "slug": "dong-da-hanoi",
         "center_lat": 21.015516664393825,
@@ -2114,11 +2109,6 @@
         ]
       },
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
         "name": "Hà Đông",
         "slug": "ha-dong-hanoi",
         "center_lat": 20.955357848532362,
@@ -2563,11 +2553,6 @@
         ]
       },
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
         "name": "Hoàn Kiếm",
         "slug": "hoan-kiem-hanoi",
         "center_lat": 21.028943975802193,
@@ -3268,11 +3253,6 @@
         ]
       },
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
         "name": "Long Biên",
         "slug": "long-bien-hanoi",
         "center_lat": 21.04271452678864,
@@ -3993,11 +3973,6 @@
         ]
       },
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
         "name": "Ba Đình",
         "slug": "ba-dinh-hanoi",
         "center_lat": 21.036270984716985,
@@ -4930,11 +4905,6 @@
         ]
       },
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
         "name": "Hai Bà Trưng",
         "slug": "hai-ba-trung-hanoi",
         "center_lat": 21.006195113103008,
@@ -5603,11 +5573,6 @@
         ]
       },
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
         "name": "Cầu Giấy",
         "slug": "cau-giay-hanoi",
         "center_lat": 21.03056946253889,
@@ -6244,11 +6209,6 @@
         ]
       },
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
         "name": "Tây Hồ",
         "slug": "tay-ho-hanoi",
         "center_lat": 21.068469817818148,
@@ -7001,11 +6961,6 @@
         ]
       },
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
         "name": "Thanh Xuân",
         "slug": "thanh-xuan-hanoi",
         "center_lat": 20.994839155783122,
@@ -8690,11 +8645,6 @@
         ]
       },
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
         "name": "Hoàng Mai",
         "slug": "hoang-mai-hanoi",
         "center_lat": 20.974809927305095,
@@ -11039,11 +10989,6 @@
         ]
       },
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
         "name": "Từ Liêm",
         "slug": "tu-liem-hanoi",
         "center_lat": 21.047257339059005,
