@@ -8630,10 +8630,7 @@
         "slug": "dong-anh-hanoi",
         "center_lat": 21.136717326448277,
         "center_lng": 105.83995010863423,
-        "type": "district",
-        "marker-size": "",
-        "marker-symbol": "",
-        "marker-color": ""
+        "type": "district"
       },
       "geometry": {
         "type": "Polygon",
@@ -13939,8 +13936,7 @@
         "slug": "tu-liem-hanoi",
         "center_lat": 21.047257339059005,
         "center_lng": 105.76060209660957,
-        "type": "district",
-        "marker-size": ""
+        "type": "district"
       },
       "geometry": {
         "type": "Polygon",
@@ -18908,23 +18904,6 @@
               20.98790550231945
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "large",
-        "marker-symbol": "circle",
-        "slug": "hoan-kiem-hanoi",
-        "title": "Hoàn Kiếm"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          105.85324074629742,
-          21.02894397580219
         ]
       }
     }
